@@ -1,3 +1,6 @@
 [submodule "src/github.com/cloudfoundry/bosh-agent"]
 	path = src/github.com/cloudfoundry/bosh-agent
 	url = https://github.com/cloudfoundry/bosh-agent
+[submodule "src/github.com/cloudfoundry-incubator"]
+	path = src/github.com/cloudfoundry-incubator
+	url = git@github.com:cloudfoundry-incubator/bosh-windows-acceptance-tests.git
